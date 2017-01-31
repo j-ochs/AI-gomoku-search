@@ -16,14 +16,14 @@ Artificial Intelligence -- Westmont College
 
 I. Acknowledgments:
 
-	Some of the code within the GomokuSearch java class has been inspired by/adapted from Dr. Wayne Iba's
+Some of the code within the GomokuSearch java class has been inspired by/adapted from Dr. Wayne Iba's
 Racket Gomoku Client and Server provided in the our deliverable specifications.  In addition, some of the concepts
 behind the code was brainstormed in joint collaboration with Chris Betsill and Hunter McGusheon.
 
 
 II. Running Instructions:
 
-	You must run the java GomokuSearch as one of two clients in order to play Gomoku over Dr. Iba's Gomoku Server.
+You must run the java GomokuSearch as one of two clients in order to play Gomoku over Dr. Iba's Gomoku Server.
 Simply compile the server and both run the server first, then the client to be x's, and finally the client to be o's.
 Compile the client using javac, and run the java file.
 For example:
@@ -38,5 +38,5 @@ that it is running on "localhost" (unless you want to connect the program to ano
 
 III. Artificial Intelligence Strategies:
 
-	For this GomokuSearch client program, the primary method of play resolution is implementation of an AlphaBeta Search
+For this GomokuSearch client program, the primary method of play resolution is implementation of an AlphaBeta Search
 ALgorithm.
