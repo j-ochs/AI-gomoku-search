@@ -2,9 +2,13 @@
 An Artificial Intelligence project which plays an informed game of gomoku against an opponent.
 
 [v.031616.1]
+
 Jacob Ochs
+
 jochs@westmont.edu
+
 Artificial Intelligence -- Westmont College
+
 
 
 ------------------------- GOMOKU-SEARCH README --------------------------
