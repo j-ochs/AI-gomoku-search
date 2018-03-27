@@ -1,13 +1,16 @@
 # AI-gomoku-search
+
 An Artificial Intelligence project which plays an informed game of gomoku against an opponent.
-Author: Jacob Ochs - jochs@westmont.edu
+
+Author: Jacob Ochs
+jochs@westmont.edu
 Artificial Intelligence Spring 2016 - Westmont College
 [v.031616.1]
 
 ## I. Acknowledgments:
 
 Some of the code within the GomokuSearch java class has been inspired by/adapted from Dr. Wayne Iba's
-Racket Gomoku Client and Server provided in the our deliverable specifications.  In addition, some of the concepts
+Racket Gomoku Client and Server provided in the deliverable specifications.  In addition, some of the concepts
 behind the code was brainstormed in joint collaboration with Chris Betsill and Hunter McGusheon.
 
 ## II. Running Instructions:
